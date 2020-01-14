@@ -7,3 +7,5 @@
 * Football
 * Bike
 * Running
+
+Appenzell
